@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated":false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.pubgidnew.mobapp",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " Animal Revolt Battle Simulator is the ultimate physics-based battle simulator sandbox Place two opposing armies made of different types of beasts and watch them tear each other apart in an epic battle! As the creatures fight, you can see the limbs bending, necks twisting, and bodies flying around everywhere .This Animal Revolt Battle Simulator game gives unlimited prospects to interactivity and keeping in mind that we'd prefer to believe that we've thought of the best time one. " 
+},
+		{
+"title": "Guide 2",
+"description": " Huge variety of creatures: T-Rex, spinosaurus, triceratops, tiger, elephant, rhinoceros, werewolf, minotaur, wyvern, hydra, spartan warrior, archer, Titanoboa, giant crocodiles, hellhound, giant insects, skeleton warriors, and many more units to play with! Dinosaurs, fantasy creatures, mutant primates, demonic monsters, you can find it all here. "
+		},
+		{
+"title": "Guide 3",
+"description": " You can even attach weapons to the animals! Put some huge guns, rocket launchers, and crossbows on a T-Rex and watch the havoc it wreaks Create your own custom monsters by combining different body parts and weapons Enjoy ultimate flexibility! Attach as many body parts and weapons as you want, anywhere you want.  "
+		},
+		{
+"title": "Guide 4  ",
+"description": " Test your tactical and strategic expertise in the campaign mode. Pick the right beasts, place them in the right place, and command them to defeat the enemy The most expensive army doesn't always win. Units have strengths and weaknesses. Find out what they are and use that knowledge to your advantage on the battlefield "
+		},
+		{
+"title": "Guide 5",
+"description": "Animal Revolt Battle Simulator est l'ultime bac à sable de simulateur de combat basé sur la physique ! Placez deux armées opposées composées de différents types de bêtes et regardez-les se déchirer dans une bataille épique ! Pendant que les créatures se battent, vous pouvez voir les membres se plier, les cous se tordre et les corps voler partout.   "
+		}
+	]
+}
