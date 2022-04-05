@@ -22,7 +22,7 @@
 			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
 		},
 		"Yandex": {
-			"activated": true,
+			"activated": false,
 			"banner": "R-M-1355917-2",
 			"native": "R-M-1355917-3",
 			"interstitial": "R-M-1355917-1"
@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.superbunnyyakot.sp",
+		"package_name": "com.pubgidnew.mobapp",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
@@ -43,23 +43,23 @@
 	"GuideContent": [
 {
 "title": "Guide 1",
-"description": Choose your login wisely: You can play as a Guest, use Facebook, or Twitter to sign-in on PUBG Mobile. Facebook or Twitter means you have to connect to your account, but you can then sync your data, so you can switch to another phone or tablet without losing all your progress." 
+"description": " Welcome to the best guide of Super Bunny Man, it will help you to know everything about Super Bunny Man game you will find many tricks and walkthroughs. Moreover, in this guide, you will discover how to complete all Super Bunny Man levels in the easiest way Super bunny a physics based game where you use rolling, jumping, and grabbing to overcome challenges. Beat levels, time attacks, find hidden carrots, all while evading spikes, boulders, pitfalls, and other challenges In this Guide for Super Bunny Man game there are many useful hidden secrets, other games to break all the stages and missions of the game to you use it according to your advantage " 
 },
 		{
 "title": "Guide 2",
-"description": " Prepare your phone: PUBG Mobile is a demanding game and your phone needs to be at its best. Remove anything you don't need on it, quit all those other apps you might have running in the background. Turn off battery saver, turn off data savers, turn off night mode for the best experience. You will want to turn off auto-brightness  it might dim the screen during the game so you can't see so well. Brighter better. If you have a game mode, use it, as it will make your phone run better "
+"description": " The best game ever made about a guy in a rabbit costume jumping through wormholes, traversing time and space on a challenging journey in search of something non-specific that will leave you with intense feelings Super Bunny Man is a co-op physics-based platformer where you use rolling jumping and grabbing to overcome challenges Beat levels time attacks find hidden carrots all while evading spikes boulders pitfalls and other challenges "
 		},
 		{
 "title": "Guide 3",
-"description": " Prepare your network: There's not so much you can do here, but for a lag-free experience, you need a good connection to the PUBG servers. Test your network speed using something like Speedtest (Apple App Store, Google Play) and avoid trying to play when someone else is streaming 4K content  you might find playing on a 5G connection is better than your domestic Wi-Fi, so it's worth testing. "
+"description": " Our current plans are to get Super Bunny Man on as many platforms as possible, but this won’t be until after the final release on Steam. We want Super Bunny Man to be available to everyone, so we will do our best to get it onto consoles and other operating systems. Sorry for the wait  "
 		},
 		{
 "title": "Guide 4  ",
-"description": " Connect your headphones: PUBG Mobile has great audio and often the speakers on your phone won't do it justice. Connect your headphones for a more immersive experience - it also helps you pinpoint approaching enemy. "
+"description": " Our target for final release is some time during the second half of 2019, however this may change during development. Our target for final release date has changed several times during development as the scope of the game has increased. The feedback from players has been fantastic and we have aimed to add improvements to the game as requested by players (most notably, we invested significant development time into adding online co-op, as we had received overwhelming amounts of requests from players for this feature). "
 		},
 		{
 "title": "Guide 5",
-"description": " How to get clothes on your character: You start in your underwear, but you can accumulate clothes in your inventory. You can buy clothing with real money in the Shop, or you can unlock clothes as you play by earning BP and opening crates. Some clothes are temporary, some you get to keep. There are always clothes in the game to pick up as you play.  "
+"description": "Have you ever been to a costume party? How would you look, if you wear a bunny costume? Well when to talk about parties, cartoon-like bunnies, the first thing that comes to our mind is our childhood. Those golden days are gone, but we can assure you that you can get the same feeling and enjoyment in this virtual platform. Super Bunny Man is a fabulous co-op physics-based game that can keep you engaged throughout the day. This virtual la-la land will remind you of your childhood for sure. This whole colourful platform is all yours, collects coins, carrots and avoids deaths. So, let’s jump, roll and play Super Bunny Man.  "
 		}
 	]
 }
