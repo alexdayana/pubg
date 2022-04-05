@@ -1,10 +1,10 @@
 {
 	"Ads": {
 		"AdMob": {
-			"activated":false,
-			"banner": "ca-app-pub-7522731665883717/5566592221",
-			"native": "ca-app-pub-7522731665883717/2940428884",
-			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+			"activated": false,
+			"banner": "ca-app-pub-7453125654529874/3036100607",
+			"native": "ca-app-pub-7453125654529874/8096855597",
+			"interstitial": "ca-app-pub-7453125654529874/4327456388"
 		},
 		"FAN": {
 			"activated": false,
@@ -23,14 +23,14 @@
 		},
 		"Yandex": {
 			"activated": true,
-			"banner": "R-M-1600508-3",
-			"native": "R-M-1600508-2",
-			"interstitial": "R-M-1600508-1"
+			"banner": "R-M-1355917-2",
+			"native": "R-M-1355917-3",
+			"interstitial": "R-M-1355917-1"
 		}
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.pubgidnew.mobapp",
+		"package_name": "com.superbunnyyakot.sp",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
@@ -43,7 +43,7 @@
 	"GuideContent": [
 {
 "title": "Guide 1",
-"description": Choose your login wisely: You can play as a Guest, use Facebook, or Twitter to sign-in on PUBG Mobile. Facebook or Twitter means you have to connect to your account, but you can then sync your data, so you can switch to another phone or tablet without losing all your progress.  " 
+"description": Choose your login wisely: You can play as a Guest, use Facebook, or Twitter to sign-in on PUBG Mobile. Facebook or Twitter means you have to connect to your account, but you can then sync your data, so you can switch to another phone or tablet without losing all your progress." 
 },
 		{
 "title": "Guide 2",
